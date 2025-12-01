@@ -1,13 +1,14 @@
 # Hi there 👋  
 I’m **Majid Ali** — a Computer Science student from Pakistan.
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="350" align="right"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+</p>
 
 ## 🎯 About Me  
 💻 I’m studying Computer Science and passionate about coding, problem solving, and building useful applications.  
- 🌱 I enjoy learning and practicing different programming languages, data structures, and computer fundamentals.  
- 🚀 Currently exploring advanced projects and sharpening my programming & networking skills.  
-
+🌱 I enjoy learning and practicing different programming languages, data structures, and computer fundamentals.  
+🚀 Currently exploring advanced projects and sharpening my programming & networking skills.  
 
 ## 🛠️ Tech Stack  
 
