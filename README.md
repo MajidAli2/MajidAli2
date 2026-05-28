@@ -1,4 +1,3 @@
-```md id="majidfinalreadme"
 <h1 align="center">Hi 👋, I'm Majid Ali</h1>
 
 <h3 align="center">
@@ -162,4 +161,3 @@ Computer Science Student | Programmer | Tech Enthusiast
 <p align="center">
   <i>"Learning never exhausts the mind."</i> — Leonardo da Vinci
 </p>
-```
