@@ -17,11 +17,11 @@ Computer Science Student | Programmer | Tech Enthusiast
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-💻 Passionate Computer Science student from Pakistan <br><br>
+💻 Passionate Computer Science student from Pakistan <br>
 
-🌱 Continuously learning programming, networking, and software development <br><br>
-🚀 Interested in Software Engineering, AI/ML, Cybersecurity & Problem Solving <br><br>
-📚 Exploring real-world projects and improving development skills <br><br>
+🌱 Continuously learning programming, networking, and software development <br>
+🚀 Interested in Software Engineering, AI/ML, Cybersecurity & Problem Solving <br>
+📚 Exploring real-world projects and improving development skills <br>
 ⚡ Goal: Become a skilled Software Engineer & Cybersecurity Professional
 </p>
 
@@ -124,10 +124,10 @@ Computer Science Student | Programmer | Tech Enthusiast
 <h2 align="center">🎯 Current Goals</h2>
 
 <p align="center">
-✅ Build advanced Java & C++ projects <br><br>
-✅ Learn AI/ML and modern technologies <br><br>
-✅ Improve problem-solving & DSA skills <br><br>
-✅ Explore cybersecurity & networking <br><br>
+✅ Build advanced Java & C++ projects <br>
+✅ Learn AI/ML and modern technologies <br>
+✅ Improve problem-solving & DSA skills <br>
+✅ Explore cybersecurity & networking <br>
 ✅ Contribute to open-source projects
 </p>
 
