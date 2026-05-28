@@ -125,13 +125,9 @@ Computer Science Student | Programmer | Tech Enthusiast
 
 <p align="center">
 ✅ Build advanced Java & C++ projects <br><br>
-
 ✅ Learn AI/ML and modern technologies <br><br>
-
 ✅ Improve problem-solving & DSA skills <br><br>
-
 ✅ Explore cybersecurity & networking <br><br>
-
 ✅ Contribute to open-source projects
 </p>
 
