@@ -70,7 +70,7 @@ Computer Science Student | Programmer | Tech Enthusiast
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea" />
-  <img src="https://img.shields.io/badge/Dev C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ---
@@ -94,11 +94,11 @@ Computer Science Student | Programmer | Tech Enthusiast
 <h3 align="center">📚 Computer Fundamentals</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data Structures & Algorithms-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital Logic Design-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer Networking-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating Systems-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP Programming-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital%20Logic%20Design-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networking-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP%20Programming-green?style=for-the-badge" />
 </p>
 
 ---
@@ -121,7 +121,7 @@ Computer Science Student | Programmer | Tech Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MajidAli2&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=MajidAli2&theme=tokyonight" />
 </p>
 
 ---
