@@ -116,9 +116,7 @@ Computer Science Student | Programmer | Tech Enthusiast
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MajidAli2&show_icons=true&theme=tokyonight" />
-</p>
+<!-- NOTE: Removed github-readme-stats.vercel.app card because the upstream deployment is currently paused (503 DEPLOYMENT_PAUSED). -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MajidAli2&theme=tokyonight" />
